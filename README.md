@@ -1,5 +1,13 @@
 # Diretório de Templates
 
+## Sumário
+
+- 1 [Sobre](#sobre)
+- 2 [Templates](#templates)
+  - 2.1 [Aplicações Front-end](#aplicações-front-end)
+  - 2.2 [Aplicações Back-end](#aplicações-back-end)
+  - 2.3 [Aplicações Monolíticas](#aplicações-monolíticas)
+
 ## Sobre
 
 Templates são bases ou aplicações genéricas que podem ser utilizadas como um ponto de partida para o desenvolvimento de um projeto, seja ele uma aplicação, uma arte gráfica, etc.
@@ -13,16 +21,18 @@ Dessa forma, não tem como você dizer que não aprendeu a matéria.
 
 E aí, bora codar?
 
-## Sumário
-
-- 1.1 [Template React - Node.js & TS](###template-react-node.js-&-TS)
-
 ## Templates
 
-Abaixo listamos todos os templates criados até o momento, você pode escolher acessar o guia ou o template diretamente. Caso seja iniciante na linguagem escolhida, recomendamos acessar o guia primeiro.
+Para tornar este arquivo mais enxuto, abaixo listamos apenas os guias de cada template criado até o momento. Neles você encontrará informações sobre como utilizar o template, dicas úteis sobre a linguagem ou assunto principal daquele template, além de links externos que nós recomendamos vocês dar uma conferida se estiver iniciando ou quiser se aprofundar mais no assunto.
 
-### Template React - Node.js & TS
+### Aplicações Front-end
 
-[Consulte o nosso guia](https://github.com/main-casi/templates/blob/main/template-react-ts-node.readme.md).
+- [Guia dos Templates de React](https://github.com/main-casi/templates/blob/main/templates-react.md)
 
-[Criar projeto com o template](https://github.com/main-casi/template-react-ts-node/generate).
+### Aplicações Back-end
+
+Em breve
+
+### Aplicações Monolíticas
+
+Em breve
